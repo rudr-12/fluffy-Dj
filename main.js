@@ -1,4 +1,4 @@
-vsong = "";
+song = "";
 
 function preload()
 {
